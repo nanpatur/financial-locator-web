@@ -10,9 +10,10 @@
     "preview": "bunx --bun vite preview"
   },
   "dependencies": {
-    "@tanstack/react-router": "^1.45.0",
+    "@clerk/clerk-react": "^5.2.7",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.24.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
